@@ -12,7 +12,7 @@ const App = () =>{
                     <br></br>
                     <img src={icon} alt="Hacktoberfest Logo" />
                     <h1><i>Hacktoberfest Hackers</i></h1>
-                    <p>Name</p> 
+                    <p>anshika</p> 
                     { /* Copy paste this below and replace "Name" with your own name */ }
                 </Col>
             </Container>
