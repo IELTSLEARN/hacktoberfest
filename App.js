@@ -15,8 +15,8 @@ const App = () =>{
 
                     <p>anshika</p> 
                     <p>Ramakrishna</p> 
-
-                    { /* Copy paste this below and replace "Name" with your own name */ }
+                    <p>Niharika</p>
+        { /* Copy paste this below and replace "Name" with your own name */ }
                 </Col>
             </Container>
         </>
